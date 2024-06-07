@@ -1,4 +1,4 @@
-# Hypotenuse
+# Simple Hypotenuse program
 
 ## My code calculate the hypotenuse of right tringle using Pythagorean theorem (a² + b² = c²)
 ## Contains two static methods:
